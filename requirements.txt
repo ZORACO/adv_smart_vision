@@ -1,0 +1,16 @@
+# Core numerical & utilities
+numpy
+imutils
+
+# Computer vision
+opencv-python
+
+# Face recognition stack
+face-recognition
+dlib
+
+# Raspberry Pi camera support
+picamera2
+
+# Serialization & utilities (usually preinstalled, kept for clarity)
+pickle-mixin
